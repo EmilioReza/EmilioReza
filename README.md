@@ -1,4 +1,3 @@
-Readme · MD
 # Hi, I'm Emilio
  
 I'm a Computer Science and Mathematics student at **Rice University** (Class of 2028) interested in software engineering, cloud infrastructure, and security. I like building systems that scale and automating the tedious parts of work.
